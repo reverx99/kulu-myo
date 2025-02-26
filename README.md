@@ -5,7 +5,7 @@
 ## 📜 İçindekiler
 - [🔹 C# Geçme Notu Hesaplama](#c-gecme-notu-hesaplama-ve-basit-messagebox-kullanimi)
 - [🔹 HTML/CSS Projeleri](#htmlcss-projeleri)
-- [🔹 PHP Projeleri [EKLENECEK]](#php-projeleri)
+- [🔹 PHP Projeleri [EKLENECEK]](#php-projeleri-eklenecek)
 - [🔹 Veritabanı Örnek Sorgular ve Table Oluşturma](#veritabani-ornek-sorgular-ve-table-olusturma)
 - [🔹 Katkıda Bulunmak İster misin?](#katkida-bulunmak-ister-misin)
 
@@ -19,6 +19,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/)
+
 ---
 
 ## 📌 Projeler
@@ -42,7 +43,7 @@ JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
 
 ---
 
-### 🔹 PHP Projeleri
+### 🔹 PHP Projeleri [EKLENECEK]
 
 📌 **Güncellemeler Yakında!** PHP projeleri sonraki güncellemelerde eklenecektir. 🚀
 
@@ -55,10 +56,10 @@ JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
 ---
 
 ## 💡 Katkıda Bulunmak İster misin?
+
 Bu projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsin:
 
 1. **Fork** butonuna basarak bu repoyu kendi hesabına kopyala.
 2. Kendi reponda gerekli düzenlemeleri yap.
 3. Değişikliklerini **commit** et ve **push** yap.
 4. Orijinal repoya **Pull Request** (PR) gönder. 🚀
-
