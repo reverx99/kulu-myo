@@ -3,9 +3,9 @@
 📌 Selçuk Üniversitesi Kulu Meslek Yüksekokulu için oluşturulmuş proje deposu.
 
 ## 📜 İçindekiler
-- [🔹 C# Geçme Notu Hesaplama](#-c-geçme-notu-hesaplama-ve-basit-messagebox-kullanımı)
-- [🔹 HTML/CSS Projeleri](#-htmlcss-projeleri)
-- [🔹 PHP Projeleri [EKLENECEK]](#-php-projeleri)
+- [🔹 C# Geçme Notu Hesaplama](#c-geçme-notu-hesaplama-ve-basit-messagebox-kullanımı)
+- [🔹 HTML/CSS Projeleri](#htmlcss-projeleri)
+- [🔹 PHP Projeleri [EKLENECEK]](#php-projeleri)
 - [🔹 Veritabanı Örnek Sorgular ve Table Oluşturma](#veritabanı-örnek-sorgular-ve-table-oluşturma)
 - [🔹 Katkıda Bulunmak İster misin?](#katkıda-bulunmak-ister-misin)
 ---
