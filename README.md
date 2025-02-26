@@ -2,6 +2,14 @@
 
 📌 Selçuk Üniversitesi Kulu Meslek Yüksekokulu için oluşturulmuş proje deposu.
 
+## 📜 İçindekiler
+- [🔹 C# Geçme Notu Hesaplama](#-c-geçme-notu-hesaplama-ve-basit-messagebox-kullanımı)
+- [🔹 HTML/CSS Projeleri](#-htmlcss-projeleri)
+- [🔹 HTML/CSS + JavaScript Projeleri](#-htmlcss--javascript-projeleri)
+- [🔹 PHP Projeleri](#-php-projeleri)
+- [🔹 Veritabanı Örnek Sorgular ve Table Oluşturma](#veritabanı-örnek-sorgular-ve-table-oluşturma)
+---
+
 ## 🛠 Teknolojiler
 
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -23,22 +31,25 @@
 - Ağırlıklı ortalamayı hesaplar.
 - Öğrencinin başarılı veya başarısız olup olmadığına dair bir mesaj görüntüler.
 
-📌 **Nasıl Çalıştırılır:**
-```sh
-# Depoyu klonlayın
-git clone https://github.com/reverx99/kulu-myo.git
-
-# Projeyi Visual Studio'da açın
-# Uygulamayı derleyin ve çalıştırın
-```
 
 ---
 
-### 🔹 HTML/CSS + JS Projeleri
+### 🔹 HTML/CSS Projeleri
 
-📌 **Güncellemeler yakında!** PHP, HTML, CSS ve JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
+**Açıklama:** Basit etiketleri CSS ile harmanlayarak kod yorum satırlarıyla açıklar.
+
+JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
+
+---
 
 ### 🔹 PHP Projeleri
 
-📌 **Güncellemeler yakında!** PHP, HTML, CSS ve JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
+📌 **Güncellemeler Yakında!** PHP projeleri sonraki güncellemelerde eklenecektir. 🚀
+
+---
+
+### 🔹 Veritabanı Örnek Sorgular ve Table Oluşturma
+
+**Açıklama:** Ad, soyad, meslek, doğum tarihi gibi veriler ile örnek table oluşturmayı ve bu bilgilere karşın örnek sorguları barındırır.
+
 
