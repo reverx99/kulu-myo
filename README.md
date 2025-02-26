@@ -2,8 +2,6 @@
 
 📌 Selçuk Üniversitesi Kulu Meslek Yüksekokulu için oluşturulmuş proje deposu.
 
-Welcome to my GitHub repository! 🚀 Here, you'll find various projects including **C# applications**, **HTML/CSS designs**, and more!
-
 ## 🛠 Teknolojiler
 
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
