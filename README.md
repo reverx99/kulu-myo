@@ -7,6 +7,7 @@
 - [🔹 HTML/CSS Projeleri](#-htmlcss-projeleri)
 - [🔹 PHP Projeleri [EKLENECEK]](#-php-projeleri)
 - [🔹 Veritabanı Örnek Sorgular ve Table Oluşturma](#veritabanı-örnek-sorgular-ve-table-oluşturma)
+- [🔹 Katkıda Bulunmak İster misin?](#katkıda-bulunmak-ister-misin)
 ---
 
 ## 🛠 Teknolojiler
@@ -50,4 +51,13 @@ JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
 
 **Açıklama:** Ad, soyad, meslek, doğum tarihi gibi veriler ile örnek table oluşturmayı ve bu bilgilere karşın örnek sorguları barındırır.
 
+---
+
+## 💡 Katkıda Bulunmak İster misin?
+Bu projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsin:
+
+1. **Fork** butonuna basarak bu repoyu kendi hesabına kopyala.
+2. Kendi reponda gerekli düzenlemeleri yap.
+3. Değişikliklerini **commit** et ve **push** yap.
+4. Orijinal repoya **Pull Request** (PR) gönder. 🚀
 
