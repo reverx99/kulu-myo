@@ -5,8 +5,7 @@
 ## 📜 İçindekiler
 - [🔹 C# Geçme Notu Hesaplama](#-c-geçme-notu-hesaplama-ve-basit-messagebox-kullanımı)
 - [🔹 HTML/CSS Projeleri](#-htmlcss-projeleri)
-- [🔹 HTML/CSS + JavaScript Projeleri](#-htmlcss--javascript-projeleri)
-- [🔹 PHP Projeleri](#-php-projeleri)
+- [🔹 PHP Projeleri [EKLENECEK]](#-php-projeleri)
 - [🔹 Veritabanı Örnek Sorgular ve Table Oluşturma](#veritabanı-örnek-sorgular-ve-table-oluşturma)
 ---
 
@@ -30,7 +29,6 @@
 - Vize ve final puanlarını girdi olarak alır.
 - Ağırlıklı ortalamayı hesaplar.
 - Öğrencinin başarılı veya başarısız olup olmadığına dair bir mesaj görüntüler.
-
 
 ---
 
