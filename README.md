@@ -41,6 +41,12 @@
 
 JavaScript projeleri sonraki güncellemelerde eklenecektir. 🚀
 
+Ziyaret:
+
+https://reverx99.github.io/kulu-myo/ornek1.html
+
+https://reverx99.github.io/kulu-myo/ornek2.html
+
 ---
 
 ### 🔹 PHP Projeleri [EKLENECEK]
